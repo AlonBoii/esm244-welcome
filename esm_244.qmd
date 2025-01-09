@@ -2,7 +2,7 @@
 title: "esm 244"
 author: "Alon Robbins"
 format: html
-editor: visual
+editor: visua
 ---
 
 ## Quarto
